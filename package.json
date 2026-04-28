@@ -1,11 +1,15 @@
 {
-  "name": "ci-cd-demo",
+  "name": "test_2",
   "version": "1.0.0",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Running tests...\" && exit 0"
   },
-  "dependencies": {
+  "author": "",
+  "license": "ISC",
+  "description": "",
+   "dependencies": {
     "express": "^4.18.2"
   }
 }
